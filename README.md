@@ -29,6 +29,7 @@ Final output:
 ✔ Jupyter Notebook included  
 
 ---
+<img width="1389" height="590" alt="download" src="https://github.com/user-attachments/assets/9d0250b3-9585-4ca1-8a88-b98e53c61d11" />
 
 ## 📂 Repository Structure
 
